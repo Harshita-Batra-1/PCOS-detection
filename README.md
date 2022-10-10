@@ -36,4 +36,4 @@ output label - 0 for non pcos & 1 for pcos patient
 ## System framework-
 Data cleaning -> Feature Selection -> Normalization
 ## Conclusion
-RF classification approach is best used DCADPCOS
+RF classification approach is best for DCADPCOS
