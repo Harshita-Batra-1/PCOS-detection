@@ -12,4 +12,8 @@ etc.
 # Technologies
 Python
 Pandas, jupyter
-ML Algo's - Random Forest, Support Vector Machine, Logistic Regression
+ML Algo's - Random Forest, Support Vector Machine, Logistic Regression & k-cross fold validation
+# System framework-
+Data cleaning -> Feature Selection -> Normalization
+# Conclusion
+RF classification approach is best used for DCADPCOS
