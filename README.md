@@ -6,7 +6,7 @@ There is no test to definitively diagnose PCOS. Disease prediction is a challeng
 Data-driven Computer Aided Diagnostic system for Polycystic Ovary Syndrome using Machine Learning Techniques 
 ## Technologies
 Python
-Pandas, jupyter
+Pandas, Numpy , Seaborn , Matplotlib , colab notebook
 ML Algo's - Random Forest, Support Vector Machine, Logistic Regression & k-cross fold validation
 ## Methods Used
 Machine Learning
