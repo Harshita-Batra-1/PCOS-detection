@@ -15,7 +15,9 @@ Predictive Modeling
 etc.
 
 Dataset - contains 43 features from 541 women, 177 of whom have PCOS. 
-input features - 'Age (yrs)', 'Weight (Kg)', 'Height(Cm) ', 'BMI',
+
+
+Input features - 'Age (yrs)', 'Weight (Kg)', 'Height(Cm) ', 'BMI',
        'Blood Group', 'Pulse rate(bpm) ', 'RR (breaths/min)', 'Hb(g/dl)',
        'Cycle(R/I)', 'Cycle length(days)', 'Marriage Status (Yrs)',
        'Pregnant(Y/N)', 'No. of abortions', '  I   beta-HCG(mIU/mL)',
