@@ -35,5 +35,13 @@ output label - 0 for non pcos & 1 for pcos patient
 
 ## System framework-
 Data cleaning -> Feature Selection -> Normalization
+AUC-ROC curve- 
+
+The Receiver Operator Characteristic (ROC) curve is an evaluation metric for binary classification problems. It is a probability curve that plots the TPR against FPR at various threshold values and essentially separates the ‘signal’ from the ‘noise’. The Area Under the Curve (AUC) is the measure of the ability of a classifier to distinguish between classes and is used as a summary of the ROC curve.
+When 0.5<AUC<1, there is a high chance that the classifier will be able to distinguish the positive class values from the negative class values. This is so because the classifier is able to detect more numbers of True positives and True negatives than False negatives and False positives.
+ROC Scores -
+0.9479166666666666 - for Random forest
+0.9452030812324929 - for Logistic regression
+This proves that Random Forest has a higher chance (than Logistic Regression) that the classifier will be able to distinguish the positive class values from the negative class values.
 ## Conclusion
 RF classification approach is best for DCADPCOS
